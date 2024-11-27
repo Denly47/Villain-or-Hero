@@ -35,7 +35,7 @@
 ## **Установка и запуск**  
 1. Склонируйте репозиторий:  
    ```bash  
-   git clone https://github.com/ваш_репозиторий.git  
+   git clone https://github.com/Denly47/Villain-or-Hero.git  
    ```  
 2. Откройте проект в Godot Engine.  
 3. Нажмите "Run Project" или экспортируйте сборку для вашей платформы.  
